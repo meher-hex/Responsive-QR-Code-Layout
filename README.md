@@ -18,7 +18,7 @@ This is a challenge where I have to provide a QR code which leads to Frontend Me
 
 ### Screenshot
 
-![](image-qr-code.png) 
+![](screenshot-desktop.png) 
 
 ## My process 
 
